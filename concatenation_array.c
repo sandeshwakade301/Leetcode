@@ -14,7 +14,7 @@ int main()
 	for(i=0; i<n; i++)
 	{
 		b[i]=a[i];
-		b[i+3]=a[i];
+		b[i+n]=a[i];
 	}
 	
     n=n*2;
