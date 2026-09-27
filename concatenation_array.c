@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int a[5]={1,2,3},b[10],i,n;
+	int a[100],b[100],i,n;
 	
 	printf("enter limit :");
 	scanf("%d",&n);
